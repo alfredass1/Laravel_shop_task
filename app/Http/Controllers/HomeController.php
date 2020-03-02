@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
 
 class HomeController extends Controller
 {
@@ -26,9 +27,19 @@ class HomeController extends Controller
         return view('shop.pages.home');
     }
 
-    public function showCateg()
+
+
+    public function AddProduct()
     {
-        return view('shop.pages.add_category');
+        return view('shop.pages.add-product');
     }
+
+    public function atsijungti()
+    {
+        Auth::logout();
+
+        return redirect('/login');
+    }
+
 
 }
