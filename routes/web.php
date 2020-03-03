@@ -22,5 +22,11 @@ Route::get('/add-category','CategoryController@AddCateg');
 Route::get('/control-category','CategoryController@ControlCateg');
 Route::POST('/store-category','CategoryController@StoreCateg'); //s-c yra uzklausa ne psl
 Route::get('/delete_category/{category}','CategoryController@deleteCateg'); //t-k yra uzklausa ne psl
-Route::get('/add-product','HomeController@AddProduct');
+Route::get('/add-product','ProductController@AddProduct');
+Route::get('/control-product','ProductController@ControlProduct');
+Route::get('/delete-product/{product}','ProductController@deleteProduct'); //t-s yra uzklausa ne psl
+Route::get('/editProduct/product/{product}', 'ProductController@editProduct');
+Route::post('/edit_product/{product}', 'ProductController@edit_product');
+
+Route::POST('/store-product','ProductController@storeProduct');
 Route::get('/logout','HomeController@atsijungti');

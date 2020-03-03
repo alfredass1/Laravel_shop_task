@@ -15,7 +15,7 @@
                 </div>
             @endif
 
-            <form method="POST" action="/store-product" enctype="multipart/form-data">
+                <form method="POST" enctype="multipart/form-data" action="/edit/{{$product->id}}" class="p-5 bg-white">
                 @csrf
                 <div class="row justify-content-center">
                     <div class="col-md-7 mb-5">

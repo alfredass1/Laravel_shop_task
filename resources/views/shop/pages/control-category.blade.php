@@ -1,9 +1,15 @@
 @extends('shop/main')
 @section('content')
 
+    <div class="row justify-content-around">
+
+            <h3 class=" text-black">Valdykite kategorijas</h3>
+        </div>
+
     <div class="site-section bg-light py-4">
     <div class="container">
         <div class="row">
+
             <div class="col-sm-6 offset-3">
                 <table class="table border-top">
                     <thead class="thead-dark">

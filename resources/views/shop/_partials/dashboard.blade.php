@@ -33,7 +33,7 @@
                         </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link " href="form-components.html">
+                        <a class="nav-link " href="/control-product">
                             <i class="material-icons">view_module</i>
                             <span>Valdyti produktus</span>
                         </a>

@@ -28,12 +28,6 @@ class HomeController extends Controller
     }
 
 
-
-    public function AddProduct()
-    {
-        return view('shop.pages.add-product');
-    }
-
     public function atsijungti()
     {
         Auth::logout();
