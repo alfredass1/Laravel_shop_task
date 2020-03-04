@@ -3,211 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="32a38755-8a92-48ff-a05a-69f0caa8dc46" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/Design Assets/Shards_Dashboard_Lite_UI_Kit_1.1.0.sketch" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/Design Assets/Shards_Dashboard_Lite_UI_Kit_1.1.0.sketch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/DesignRevision.url" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/DesignRevision.url" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/add-new-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/add-new-post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/components-blog-posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/components-blog-posts.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/errors.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/errors.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/form-components.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/form-components.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/avatars/0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/avatars/0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/avatars/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/avatars/1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/avatars/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/avatars/2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/avatars/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/avatars/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/10.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/11.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/12.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/12.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/13.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/13.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/14.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/14.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/15.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/15.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/16.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/7.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/8.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/content-management/9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/content-management/9.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/shards-dashboards-logo-danger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/shards-dashboards-logo-danger.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/shards-dashboards-logo-info.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/shards-dashboards-logo-info.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/shards-dashboards-logo-secondary.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/shards-dashboards-logo-secondary.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/shards-dashboards-logo-success.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/shards-dashboards-logo-success.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/shards-dashboards-logo-warning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/shards-dashboards-logo-warning.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/images/shards-dashboards-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/images/shards-dashboards-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/app/app-blog-new-post.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/app/app-blog-new-post.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/app/app-blog-new-post.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/app/app-blog-new-post.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/app/app-blog-overview.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/app/app-blog-overview.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/app/app-blog-overview.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/app/app-blog-overview.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/app/app-components-overview.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/app/app-components-overview.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/app/app-components-overview.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/app/app-components-overview.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/extras.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/extras.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/shards-dashboards.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/shards-dashboards.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/shards-dashboards.1.1.0.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/shards-dashboards.1.1.0.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/scripts/shards-dashboards.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/scripts/shards-dashboards.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/danger.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/danger.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/danger.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/danger.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/info.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/info.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/info.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/info.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/secondary.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/secondary.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/secondary.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/secondary.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/success.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/success.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/success.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/success.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/warning.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/warning.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/accents/warning.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/accents/warning.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/extras.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/extras.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_button-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_custom-forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_custom-sliders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_custom-sliders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_images.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/accent-variations/danger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/accent-variations/danger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/accent-variations/info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/accent-variations/info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/accent-variations/secondary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/accent-variations/secondary.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/accent-variations/success.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/accent-variations/success.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/accent-variations/warning.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/accent-variations/warning.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/blocks/_main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/blocks/_main-content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/blocks/_main-footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/blocks/_main-footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/blocks/_main-navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/blocks/_main-navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/blocks/_main-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/blocks/_main-sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/blocks/_page-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/blocks/_page-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/components/_card-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/components/_card-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/components/_error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/components/_error.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/plugins/_quill.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/plugins/_quill.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/shards-dashboards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/shards-dashboards.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/templates/_blog-add-new-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/templates/_blog-add-new-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/templates/_blog-overview.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/templates/_blog-overview.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/templates/_common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/templates/_common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/utilities/_borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/utilities/_borders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/utilities/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/utilities/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/scss/utilities/_text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/scss/utilities/_text.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/shards-dashboards.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/shards-dashboards.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/styles/shards-dashboards.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/styles/shards-dashboards.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/tables.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/HTML/user-profile-lite.html" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/HTML/user-profile-lite.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/._Design Assets" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/._Design Assets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/._DesignRevision.url" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/._DesignRevision.url" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/._HTML" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/._HTML" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/._LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/._LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/Design Assets/._Shards_Dashboard_Lite_UI_Kit_1.1.0.sketch" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/Design Assets/._Shards_Dashboard_Lite_UI_Kit_1.1.0.sketch" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/._images" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/._images" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/._scripts" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/._scripts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/._styles" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/._styles" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._avatars" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._avatars" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._content-management" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._content-management" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._shards-dashboards-logo-danger.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._shards-dashboards-logo-danger.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._shards-dashboards-logo-info.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._shards-dashboards-logo-info.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._shards-dashboards-logo-secondary.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._shards-dashboards-logo-secondary.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._shards-dashboards-logo-success.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._shards-dashboards-logo-success.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._shards-dashboards-logo-warning.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._shards-dashboards-logo-warning.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/._shards-dashboards-logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/._shards-dashboards-logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/avatars/._0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/avatars/._0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/avatars/._1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/avatars/._1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/avatars/._2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/avatars/._2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/avatars/._3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/avatars/._3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._1.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._10.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._10.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._11.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._11.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._12.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._12.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._13.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._13.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._14.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._14.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._15.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._15.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._16.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._16.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._2.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._3.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._4.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._5.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._6.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._6.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._7.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._7.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._8.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._8.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/images/content-management/._9.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/images/content-management/._9.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/._app" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/._app" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/._extras.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/._extras.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/._shards-dashboards.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/app/._app-blog-new-post.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/app/._app-blog-new-post.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/app/._app-blog-new-post.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/app/._app-blog-new-post.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/app/._app-blog-overview.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/app/._app-blog-overview.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/app/._app-blog-overview.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/app/._app-blog-overview.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/app/._app-components-overview.1.1.0.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/app/._app-components-overview.1.1.0.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/scripts/app/._app-components-overview.1.1.0.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/scripts/app/._app-components-overview.1.1.0.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/._.DS_Store" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/._.DS_Store" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/._accents" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/._accents" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/._extras.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/._extras.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/._scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/._scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/._shards-dashboards.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/._shards-dashboards.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/._shards-dashboards.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/._shards-dashboards.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._danger.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._danger.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._danger.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._danger.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._info.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._info.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._info.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._info.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._secondary.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._secondary.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._secondary.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._secondary.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._success.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._success.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._success.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._success.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._warning.1.1.0.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._warning.1.1.0.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/accents/._warning.1.1.0.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/accents/._warning.1.1.0.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__alert.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__alert.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__badge.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__badge.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__button-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__button-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__buttons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__card.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__custom-forms.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__custom-forms.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__custom-sliders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__custom-sliders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__dropdown.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__dropdown.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__icons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__icons.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__images.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__images.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__input-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__input-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__list-group.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__list-group.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__overrides.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__overrides.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__reboot.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__reboot.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__utilities.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__utilities.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/.__variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/.__variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._accent-variations" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._accent-variations" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._blocks" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._blocks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._components" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._components" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._plugins" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._plugins" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._shards-dashboards.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._shards-dashboards.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._templates" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._templates" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/._utilities" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/._utilities" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/accent-variations/._danger.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/accent-variations/._danger.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/accent-variations/._info.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/accent-variations/._info.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/accent-variations/._secondary.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/accent-variations/._secondary.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/accent-variations/._success.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/accent-variations/._success.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/accent-variations/._warning.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/accent-variations/._warning.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/blocks/.__main-content.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/blocks/.__main-content.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/blocks/.__main-footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/blocks/.__main-footer.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/blocks/.__main-navbar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/blocks/.__main-navbar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/blocks/.__main-sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/blocks/.__main-sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/blocks/.__page-header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/blocks/.__page-header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/components/.__card-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/components/.__card-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/components/.__error.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/components/.__error.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/plugins/.__quill.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/plugins/.__quill.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/templates/.__blog-add-new-post.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/templates/.__blog-add-new-post.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/templates/.__blog-overview.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/templates/.__blog-overview.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/templates/.__common.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/templates/.__common.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/utilities/.__borders.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/utilities/.__borders.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/utilities/.__general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/utilities/.__general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/__MACOSX/HTML/styles/scss/utilities/.__text.scss" beforeDir="false" afterPath="$PROJECT_DIR$/template_admin_side/__MACOSX/HTML/styles/scss/utilities/.__text.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_user_side/home-page/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template_user_side/item-page/package-lock.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,11 +16,6 @@
     <execution>
       <executable />
     </execution>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>need</find>
-    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -359,7 +151,7 @@
       <workItem from="1583166731144" duration="17724000" />
       <workItem from="1583230418927" duration="11700000" />
       <workItem from="1583275622984" duration="111000" />
-      <workItem from="1583327384263" duration="15893000" />
+      <workItem from="1583327384263" duration="16324000" />
     </task>
     <servers />
   </component>
