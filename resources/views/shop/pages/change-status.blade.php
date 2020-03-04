@@ -28,8 +28,9 @@
                                     <label class="text-black" for="email">Būsena</label>
                                     <select class="form-control" name="orderStatus" >
                                         <option>{{$order->orderStatus}}</option>
-                                        <option>Naujas</option>
+                                        <option>Pateiktas</option>
                                         <option>Vykdomas</option>
+                                        <option>Išsiųstas</option>
                                         <option>Įvykdytas</option>
                                     </select>
                                 </div>
