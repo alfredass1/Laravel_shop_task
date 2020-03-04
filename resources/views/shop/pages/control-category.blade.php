@@ -1,18 +1,18 @@
 @extends('shop/main')
 @section('content')
 
-    <div class="row justify-content-around">
 
-            <h3 class=" text-black">Valdykite kategorijas</h3>
-        </div>
 
     <div class="site-section bg-light py-4">
-    <div class="container">
+        <div class="container">
+        <div class="row justify-content-center">
+            <h3 class="mb-4  text-black">Valdykite kategorijas</h3>
+        </div>
         <div class="row">
 
             <div class="col-sm-6 offset-3">
                 <table class="table border-top">
-                    <thead class="thead-dark">
+                    <thead class="thead-light">
                     <tr>
                         <th scope="col">Kategorijos</th>
                         <th scope="col">Veiksmai</th>
@@ -22,7 +22,7 @@
                     @foreach($categories as $category)
                         <tr>
                             <td>{{$category->category}}</td>
-                            <td><a href="/delete_category/{{$category->id}}">Šalinti</a></td>
+                            <td><a href="/warning-category/{{$category->id}}">Šalinti</a></td>
                         </tr>
                     @endforeach
                     </tbody>
@@ -37,3 +37,6 @@
     </div>
 
 @Stop
+
+
+

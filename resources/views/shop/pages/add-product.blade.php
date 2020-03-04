@@ -1,7 +1,6 @@
 @extends('shop/main')
 @section('content')
 
-
     <div class="site-section bg-light py-4">
         <div class="container">
 

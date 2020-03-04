@@ -7,8 +7,8 @@
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" id="main-stylesheet" data-version="1.1.0" href="{{ ('css/shards-dashboards.1.1.0.min.css') }}">
-    <link rel="stylesheet" href="{{ ('css/extras.1.1.0.min.css') }}">
+    <link rel="stylesheet" id="main-stylesheet" data-version="1.1.0" href="{{asset ('../../css/shards-dashboards.1.1.0.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('../../css/extras.1.1.0.min.css')  }}">
     <script async defer src='https://buttons.github.io/buttons.js'></script>
 
     <title>Admin</title>
@@ -40,9 +40,9 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.1/Chart.min.js"></script>
 <script src="https://unpkg.com/shards-ui@latest/dist/js/shards.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Sharrre/2.0.1/jquery.sharrre.min.js"></script>
-<script src="{{ ('js/extras.1.1.0.min.js') }}"></script>
-<script src="{{ ('js/shards-dashboards.1.1.0.min.js') }}"></script>
-<script src="{{ ('js/app/app-blog-overview.1.1.0.js') }}"></script>
+<script src="{{ asset('../../js/extras.1.1.0.min.js') }}"></script>
+<script src="{{ asset('../../js/shards-dashboards.1.1.0.min.js') }}"></script>
+<script src="{{ asset('../../js/app/app-blog-overview.1.1.0.js') }}"></script>
 
 </body>
 </html>

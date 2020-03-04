@@ -11,6 +11,7 @@ use Illuminate\Http\Request;
 
 class ProductController extends Controller
 {
+
     public function AddProduct()
     {
         $categories = Category::all();
@@ -53,6 +54,12 @@ class ProductController extends Controller
         return view('shop.pages.control-product', compact('products', 'categories')); //psl
     }
 
+    public function warningProduct(Product $product)
+    {
+
+        return view('shop.pages.warning-product',compact('product'));
+    }
+
     public function deleteProduct(Product $product)
     {
 
@@ -61,7 +68,6 @@ class ProductController extends Controller
 
     }
 
-
     public function editProduct(Product $product){
         $categories = Category::all();
 
@@ -69,7 +75,7 @@ class ProductController extends Controller
 
     }
 
-    public function edit_product(Request $request, Product $product){
+    public function edit_Product(Request $request, Product $product){
 
         $validateData = $request->validate([
             'title' => 'required',
@@ -100,6 +106,7 @@ class ProductController extends Controller
 
         return redirect('/control-product');
     }
+
 
 
 }

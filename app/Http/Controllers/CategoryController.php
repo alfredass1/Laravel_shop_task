@@ -32,6 +32,12 @@ class CategoryController extends Controller
         return view('shop.pages.control-category',compact('categories')); //psl
     }
 
+    public function warningCateg(Category $category)
+    {
+
+        return view('shop.pages.warning-category',compact('category'));
+    }
+
     public function deleteCateg(Category $category)
     {
         $category->delete();
