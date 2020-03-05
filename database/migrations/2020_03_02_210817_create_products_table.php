@@ -21,7 +21,6 @@ class CreateProductsTable extends Migration
             $table->string('img')-> nullable();
             $table->integer('quantity')-> nullable();
             $table->integer('catid');
-            $table->integer('userID');
             $table->timestamps();
         });
     }

@@ -30,13 +30,8 @@
                                 <td>{{$order->buyerName}}</td>
                                 <td>{{$order->buyerLastName}}</td>
                                 <td>{{$order->buyerAddress }}</td>
-                                @foreach($products as $product)
-                                    @if($order->itemID == $product->id)
-                                        <td>{{$product->title}}</td>
-                                    @endif
-                                @endforeach
-                                <td>{{$order->itemID }}</td>
 
+                                <td>{{$order->productID }}</td>
                                 <td>{{$order->productQuantity }}</td>
                                 <td>{{$order->created_at}}</td>
                                 <td>{{$order->orderSum}}</td>

@@ -18,8 +18,8 @@ class CreateOrdersTable extends Migration
             $table->string('buyerName');
             $table->string('buyerLastName');
             $table->longtext('buyerAddress');
-            $table->string('orderStatus');
-            $table->integer('itemID');
+            $table->string('orderStatus')->default('Naujas');
+            $table->integer('productID');
             $table->integer('productQuantity');
             $table->decimal('orderSum');
             $table->timestamps();
